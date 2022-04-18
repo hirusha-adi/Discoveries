@@ -7,4 +7,4 @@ parties.
 
 ## Exploits
 
-1. Snapchat Screenshot/Screen-Record Exploit
+1. [Snapchat Screenshot/Screen-Record Exploit](https://hirusha-adi.github.io/Discoveries/Exploits/Snapchat-Screenshot-Exploit)
